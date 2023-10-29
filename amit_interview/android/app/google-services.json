@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008592638",
+    "project_id": "amit-wc1",
+    "storage_bucket": "amit-wc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008592638:android:1d417f9be52e44fcc267af",
+        "android_client_info": {
+          "package_name": "com.example.amit_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26a2HBIRr9SEffsmZGCfnkwWKx52MRmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008592638:android:de3d413eadc000c0c267af",
+        "android_client_info": {
+          "package_name": "com.example.amit_wc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26a2HBIRr9SEffsmZGCfnkwWKx52MRmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
